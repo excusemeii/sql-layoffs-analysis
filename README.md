@@ -51,4 +51,4 @@ Some of the analyses performed:
 ---
 ## 🤝 Let’s Connect  
 👩‍💻 **Author:** Kanchan Joshi  
-🔗 [LinkedIn](https://www.linkedin.com/in/kanchan101/) | 📧 kanchanjoshi@example.com
+🔗 [LinkedIn](https://www.linkedin.com/in/kanchan101/) | 📧 joshikn@mail.uc.edu
